@@ -1,4 +1,4 @@
-*Project Overview and Specifications*
+# Project Overview and Specifications
 
 **What are we optimizing?**
 - Use rate of return >> in top or bottom 10%
